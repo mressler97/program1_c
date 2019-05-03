@@ -1,3 +1,9 @@
+/* Name:         Michael Ressler
+ * Class:        CSCI112 Programming with C
+ * Assignment:   Program 1
+ * Date:	 4/08/19
+*/
+
 #include <stdio.h>
 #include "classes.h"
 #include <stdlib.h>
