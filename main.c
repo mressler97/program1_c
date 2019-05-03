@@ -19,7 +19,7 @@ classes_t classes[20];
 
 num = readClasses(classes); //populates array with data structures, calls parse function from file
 
-query(classes, num); //user query, calls to prints file and other functions
+query(classes, num); //user query, calls to prints file and print functions
 
 }
 
